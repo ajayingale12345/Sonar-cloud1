@@ -18,7 +18,8 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <jacoco.version>0.8.6</jacoco.version>
- 
+   <sonar.organization>ajayingale12345</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
   </properties>
  
